@@ -1,6 +1,6 @@
 ![Alt text](Recipe_Sharing_App.png)
 
-**Project: This project demonstrates the automation of a website deployment using AWS CloudFormation**
+**Project: Automate a website deployment using AWS CloudFormation**
 
 **Overview:** This project demonstrates the deployment of a dynamic recipe-sharing application using an AWS CloudFormation template. 
 
