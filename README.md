@@ -33,3 +33,7 @@
 
 10. **Amazon DynamoDB:**
     - Implemented a NoSQL database to store recipes as single document-based items for high performance and flexibility.
+   
+**Repository:** The reference diagram and deployment scripts for this project are available in the GitHub repository. Please refer to the repository for detailed instructions on deploying the static website on AWS infrastructure.
+
+**Conclusion:** By following the instructions and utilizing the provided resources, you can successfully deploy a dynamic web application on AWS, ensuring high availability, security, and scalability.
