@@ -1,5 +1,4 @@
-# cloudformation-sharing-app
-This project demonstrates automating a website using cloudformation 
+**Project: This project demonstrates the automation of a website deployment using AWS CloudFormation**
 
 **Overview:** This project demonstrates the deployment of a dynamic recipe-sharing application using an AWS CloudFormation template. 
 
