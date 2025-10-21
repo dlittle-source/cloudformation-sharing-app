@@ -30,4 +30,4 @@
    - Set up a VPC with public and private subnets across two Availability Zones for improved reliability, scalability, and fault tolerance.
 
 10. **Amazon DynamoDB:**
-  - Implemented a NoSQL database to store recipes as single document-based items for high performance and flexibility.
+   - Implemented a NoSQL database to store recipes as single document-based items for high performance and flexibility.
